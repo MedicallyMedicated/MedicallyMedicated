@@ -1,4 +1,4 @@
-# Hi there, I'm John Doe! 👋
+# Hi there, I'm MedicallyMedicated! 👋
 
 ## About Me
 
