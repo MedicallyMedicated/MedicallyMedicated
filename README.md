@@ -14,9 +14,9 @@ I'm currently diving deeper into deep learning techniques and neural networks, a
 
 ## 📫 How to Reach Me
 
-- Email: john.doe@example.com
+- Email: help@howtoguy.blog
 - LinkedIn: https://www.linkedin.com/in/howtodoanything
-- Twitter: @https://www.twitter.com/howtodoanything
+- Twitter: https://www.twitter.com/@howtodoanything
 
 ## 💼 Professional Experience
 
